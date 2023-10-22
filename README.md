@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=14187529)
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=14187529)](https://stackoverflow.com/users/14187529/kamal-nayan)
+
+is this what is expected?
 <!--
 **userKamalNayan/userkamalNayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
