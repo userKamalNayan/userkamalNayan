@@ -16,6 +16,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=userKamalNayan&repo=RadiusAgentAssignment&theme=dark" />
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=userKamalNayan&label=Views&color=blueviolet&style=plastic" alt="userKamalNayan" /> </p>
 <!--
 **userKamalNayan/userkamalNayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
