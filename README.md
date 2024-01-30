@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning iOS.
 - 💬 Ask me about Android Development 
 - ⚡ Fun fact: I love playing COD.
 
